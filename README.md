@@ -4,7 +4,7 @@
 🏗️ Overview
 A 3-in-1 rehab platform that:
 
-Analyzes gait using computer vision to detect abnormalities.
+Analyzes gait using computer vision to detect abnormalities. - Pose Estimation
 
 Tracks muscle strength recovery over time using a dashboard.
 
